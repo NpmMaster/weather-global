@@ -1,0 +1,22 @@
+{
+  "name": "weather-global",
+  "version": "1.0.0",
+  "description": "An simple weather api",
+  "main": "index.js",
+  "dependencies": {
+    "request": "2.88.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NpmMaster/weather-global.git"
+  },
+  "author": "NpmMaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NpmMaster/weather-global/issues"
+  },
+  "homepage": "https://github.com/NpmMaster/weather-global#readme"
+}
